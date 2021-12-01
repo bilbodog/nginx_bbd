@@ -10,7 +10,7 @@
     "description": "An Nginx egg to host any Website",
     "features": null,
     "images": [
-        "ghcr.io\/finnie2006\/nginx-ptero"
+        "https:\/\/github.com\/bilbodog\/nginx_bbd.git"
     ],
     "file_denylist": [],
     "startup": "{{STARTUP_CMD}}",
