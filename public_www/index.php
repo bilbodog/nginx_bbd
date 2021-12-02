@@ -4,10 +4,10 @@
 	<body>
 		<?php include("navbar.php"); ?>
 		<div class="container">
-			<div class="row">
+			<div class="row" style="margin-bottom:15px;">
 				<div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 					<center>
-						<h1>Hello world!</h1>
+						<img src="assets/img/logo.png" alt="GeekHosting logo">
 					</center>
 				</div>
 			</div>
