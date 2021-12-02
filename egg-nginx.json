@@ -10,7 +10,7 @@
     "description": "An Nginx egg to host any Website",
     "features": null,
     "images": [
-        "https:\/\/github.com\/bilbodog\/nginx_bbd"
+        "bilbodog\/nginx:latest"
     ],
     "file_denylist": [],
     "startup": "{{STARTUP_CMD}}",
