@@ -6,9 +6,12 @@
 		<div class="container">
 			<div class="row" style="margin-bottom:15px;">
 				<div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-					<center>
-						<img src="assets/img/logo.png" alt="GeekHosting logo">
-					</center>
+          <div class="bg-light p-5 rounded mt-3">
+            <center>
+              <img src="assets/img/logo.png" alt="GeekHosting logo">
+              <h1>This new webserver is hosted by GeekHosting!</h1>
+            </center>
+          </div>
 				</div>
 			</div>
 			<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">

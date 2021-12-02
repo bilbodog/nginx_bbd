@@ -4,8 +4,8 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mt-2 mt-lg-0">
 				<li class="nav-item active"><a class="nav-link" href="index.php">Homepage</a></li>
-				<li class="nav-item active"><a class="nav-link" href="register.php">Page 1</a></li>
-				<li class="nav-item active"><a class="nav-link" href="login.php">Page 2</a></li>
+				<li class="nav-item active"><a class="nav-link" href="page1.php">Page 1</a></li>
+				<li class="nav-item active"><a class="nav-link" href="page2.php">Page 2</a></li>
 			</ul>
 		</div>
 	</div>
